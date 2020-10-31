@@ -1,0 +1,10 @@
+C:\Users\İbrahim\Source\Repos\CALCULATOR.VOL_1\CALCULATOR.VOL_1\bin\Debug\CALCULATOR.VOL_1.exe.config
+C:\Users\İbrahim\Source\Repos\CALCULATOR.VOL_1\CALCULATOR.VOL_1\bin\Debug\CALCULATOR.VOL_1.exe
+C:\Users\İbrahim\Source\Repos\CALCULATOR.VOL_1\CALCULATOR.VOL_1\bin\Debug\CALCULATOR.VOL_1.pdb
+C:\Users\İbrahim\Source\Repos\CALCULATOR.VOL_1\CALCULATOR.VOL_1\obj\Debug\CALCULATOR.VOL_1.csprojAssemblyReference.cache
+C:\Users\İbrahim\Source\Repos\CALCULATOR.VOL_1\CALCULATOR.VOL_1\obj\Debug\CALCULATOR.VOL_1.Form1.resources
+C:\Users\İbrahim\Source\Repos\CALCULATOR.VOL_1\CALCULATOR.VOL_1\obj\Debug\CALCULATOR.VOL_1.Properties.Resources.resources
+C:\Users\İbrahim\Source\Repos\CALCULATOR.VOL_1\CALCULATOR.VOL_1\obj\Debug\CALCULATOR.VOL_1.csproj.GenerateResource.cache
+C:\Users\İbrahim\Source\Repos\CALCULATOR.VOL_1\CALCULATOR.VOL_1\obj\Debug\CALCULATOR.VOL_1.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim\Source\Repos\CALCULATOR.VOL_1\CALCULATOR.VOL_1\obj\Debug\CALCULATOR.VOL_1.exe
+C:\Users\İbrahim\Source\Repos\CALCULATOR.VOL_1\CALCULATOR.VOL_1\obj\Debug\CALCULATOR.VOL_1.pdb
